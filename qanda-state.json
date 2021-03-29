@@ -5298,5 +5298,75 @@
         "time": "2020-11-23T21:35+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2004H043S00MA1D1_Q+A_S13_E043_HD.mp4",
         "size": 1205071219
+    },
+    "13122086": {
+        "episode_id": 13122086,
+        "title": "Q+A on Vaccines: What do you want to know? ",
+        "link": "https://www.abc.net.au/qanda/2021-11-02/13122086",
+        "image_url": "https://www.abc.net.au/cm/rimage/13137400-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Nick Coatsworth, Federal Government infectious diseases advisor; Sharon Lewin, Leading infectious diseases expert and Director of the Doherty Institute; Michelle Ananda-Rajah, Associate director, Monash Institute of Medical Engineering; and Tony Blakely, Epidemiologist, University of Melbourne.",
+        "time": "2021-02-11T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H002S00MA1D1_Q+A_S14_E002_HD.mp4",
+        "size": 986166029
+    },
+    "13250600": {
+        "episode_id": 13250600,
+        "title": "Consent",
+        "link": "https://www.abc.net.au/qanda/2021-18-03/13250600",
+        "image_url": "https://www.abc.net.au/cm/rimage/13251922-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Yumi Stynes, Broadcaster and author, Welcome to Consent; Briony Scott, Principal, Wenona School; Michael Salter, Associate Professor of Criminology, UNSW; Yasmin Poole, 2021 Youth Influencer of the Year; and Joe Williams, Former NRL player and mental health advocate.",
+        "time": "2021-03-18T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H007S00MA1D1_Q+A_S14_E007_HD.mp4",
+        "size": 865627907
+    },
+    "13102504": {
+        "episode_id": 13102504,
+        "title": "Calling It Out",
+        "link": "https://www.abc.net.au/qanda/2021-04-02/13102504",
+        "image_url": "https://www.abc.net.au/cm/rimage/13102486-16x9-large.jpg?v=5",
+        "teaser": "Panellists: Grace Tame, Australian of the Year; Alexander Downer, Former Liberal Foreign Affairs Minister; Warren Mundine, Chairman of the Australian Indigenous Education Foundation; Shane Fitzsimmons, Former NSW RFS Commissioner; and Tanya Hosch, Social inclusion advocate.",
+        "time": "2021-02-04T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H001S00MA1D1_Q+A_S14_E001_HD.mp4",
+        "size": 1060645651
+    },
+    "13164170": {
+        "episode_id": 13164170,
+        "title": "Spotlight on Aged Care",
+        "link": "https://www.abc.net.au/qanda/2021-25-02/13164170",
+        "image_url": "https://www.abc.net.au/cm/rimage/13169014-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Katie Allen, Liberal Member for Higgins; Clare O'Neil, Shadow Minister for Senior Australians and Aged Care Services; Mike Baird, CEO of HammondCare and Former NSW Premier; Jane Halton, Health expert and former head of Australia\u2019s Finance Department; and Joseph Ibrahim, Professor at the Department of Forensic Medicine, Monash University.",
+        "time": "2021-02-25T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H004S00MA1D1_Q+A_S14_E004_HD.mp4",
+        "size": 929133835
+    },
+    "13192776": {
+        "episode_id": 13192776,
+        "title": "All About Women",
+        "link": "https://www.abc.net.au/qanda/2021-04-03/13192776",
+        "image_url": "https://www.abc.net.au/cm/rimage/13200184-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Isabel Allende, Internationally acclaimed author and feminist; Susan McDonald, Queensland National Party Senator; Anne Aly, WA Labor MP; Samantha Maiden, National Political Editor; Dhanya Mani, Lawyer and former NSW Liberal Party staffer; and Kate Crawford, Academic and leading artificial intelligence expert; with a live performance from Somalian poet Hani Abdile.",
+        "time": "2021-03-04T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H005S00MA1D1_Q+A_S14_E005_HD.mp4",
+        "size": 1025487105
+    },
+    "13141040": {
+        "episode_id": 13141040,
+        "title": "Bargaining with Big Tech",
+        "link": "https://www.abc.net.au/qanda/2021-18-02/13141040",
+        "image_url": "https://www.abc.net.au/cm/rimage/13156098-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Paul Fletcher, Minister for Communications, Cyber Safety and the Arts; Michelle Rowland, Shadow Communications Minister; Julie Inman Grant, eSafety Commissioner; Lydia Khalil, International security expert; and Hal Crawford, Media consultant and former news director.",
+        "time": "2021-02-18T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H003S00AM1D1_Q+A_S14_E003_HD.mp4",
+        "size": 840884968
+    },
+    "13225978": {
+        "episode_id": 13225978,
+        "title": "On The Rebound",
+        "link": "https://www.abc.net.au/qanda/2021-11-03/13225978",
+        "image_url": "https://www.abc.net.au/cm/rimage/13236994-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Zed Seselja, Minister for International Development and the Pacific; Kristina Keneally, Shadow Home Affairs Minister; Fiona Simson, President, National Farmers\u2019 Federation; Gareth Parker, Breakfast host, 6PR Perth; and Kim Rubenstein, Legal scholar and citizenship expert.",
+        "time": "2021-03-11T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H006S00MA1D1_Q+A_S14_E006_HD.mp4",
+        "size": 957676774
     }
 }
