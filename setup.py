@@ -8,6 +8,7 @@ setup(
 	author='Zane van Iperen',
 	author_email='zane@zanevaniperen.com',
 	requires=['beautifulsoup4', 'html5lib', 'feedgen'],
+	install_requires=[l.strip() for l in open('requirements.txt', 'r').readlines()],
 	packages=['qanda'],
 	scripts=['bin/qanda']
 )
