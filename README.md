@@ -2,17 +2,16 @@
 
 Scrapes ABC's website and builds a RSS feed containing Q+A episodes.
 
+## Feed URL
+
+[https://raw.githubusercontent.com/vs49688/qanda/master/qanda.xml](https://raw.githubusercontent.com/vs49688/qanda/master/qanda.xml)
+
+This will be updated every week, roughly a day after each broadcast.
+
 ## Usage
 ```bash
-./update.py
-```
-
-## Notes
-
-`scrape.py`, `add-field.py`, and `gen-feed.py` are for debugging purposes only.
-
-```bash
-./scrape.py | ./gen-feed.py > qanda.rss
+$ pip install .
+$ qanda > qanda.xml
 ```
 
 ## License
