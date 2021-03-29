@@ -1,7 +1,6 @@
 name: Scrape and Push
 
 on:
-  push:
   schedule:
     - cron: '0 0 * * 5'
 
