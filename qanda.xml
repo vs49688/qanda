@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Apr 2021 02:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2021 00:34:01 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Fixing the Future</title>
+      <link>https://www.abc.net.au/qanda/2021-25-03/13260458</link>
+      <description>Panellists: Stan Grant, Journalist and author; Bruce Pascoe, Author; Sam Mostyn, President, Chief Executive Women; Gigi Foster, Economist, UNSW; Adam Creighton, Economics editor, The Australian. Thomas Piketty, Internationally renowned economist also joined the conversation.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-25-03/13260458</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H008S00MA1D1_Q+A_S14_E008_HD.mp4" length="1051402981" type="video/mp4"/>
+      <pubDate>Thu, 18 Mar 2021 20:30:00 +1100</pubDate>
+    </item>
     <item>
       <title>Consent</title>
       <link>https://www.abc.net.au/qanda/2021-18-03/13250600</link>
