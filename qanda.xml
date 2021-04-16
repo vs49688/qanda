@@ -7,8 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Apr 2021 00:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Apr 2021 00:33:59 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>It's Complicated: Vaccines, China, and Saying Sorry</title>
+      <link>https://www.abc.net.au/qanda/2021-15-04/13298684</link>
+      <description>Panellists: Norman Swan, Presenter RN and Coronacast; James Paterson, Liberal Senator for Victoria; Katy Gallagher, Shadow Minister for Finance; Vicky Xu, Journalist and researcher; and David Olsson, President, Australia China Business Council.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-15-04/13298684</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H010S00MA1D1_Q+A_S14_E010_HD.mp4" length="944863463" type="video/mp4"/>
+      <pubDate>Thu, 15 Apr 2021 20:30:00 +1000</pubDate>
+    </item>
+    <item>
+      <title>Vaccines, the Church, and the State of Politics</title>
+      <link>https://www.abc.net.au/qanda/2021-08-04/13289400</link>
+      <description>Panellists: Trent Zimmerman, Liberal Member for North Sydney; Anika Wells, Labor Member for Lilley; Martyn Iles, Managing Director, Australian Christian Lobby; Antoinette Lattouf, Journalist, diversity advocate, and author; and Teela Reid, Wiradjuri/Wailwan, Lawyer. With a live performance from singer-songwriter Robbie Miller.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-08-04/13289400</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H009S00MA1D1_Q+A_S14_E009_HD.mp4" length="908570855" type="video/mp4"/>
+      <pubDate>Thu, 08 Apr 2021 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>Fixing the Future</title>
       <link>https://www.abc.net.au/qanda/2021-25-03/13260458</link>

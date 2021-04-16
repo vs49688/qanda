@@ -5378,5 +5378,25 @@
         "time": "2021-03-18T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H008S00MA1D1_Q+A_S14_E008_HD.mp4",
         "size": 1051402981
+    },
+    "13289400": {
+        "episode_id": 13289400,
+        "title": "Vaccines, the Church, and the State of Politics",
+        "link": "https://www.abc.net.au/qanda/2021-08-04/13289400",
+        "image_url": "https://www.abc.net.au/cm/rimage/13290142-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Trent Zimmerman, Liberal Member for North Sydney; Anika Wells, Labor Member for Lilley; Martyn Iles, Managing Director, Australian Christian Lobby; Antoinette Lattouf, Journalist, diversity advocate, and author; and Teela Reid, Wiradjuri/Wailwan, Lawyer. With a live performance from singer-songwriter Robbie Miller.",
+        "time": "2021-04-08T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H009S00MA1D1_Q+A_S14_E009_HD.mp4",
+        "size": 908570855
+    },
+    "13298684": {
+        "episode_id": 13298684,
+        "title": "It's Complicated: Vaccines, China, and Saying Sorry",
+        "link": "https://www.abc.net.au/qanda/2021-15-04/13298684",
+        "image_url": "https://www.abc.net.au/cm/rimage/13298682-16x9-large.jpg?v=5",
+        "teaser": "Panellists: Norman Swan, Presenter RN and Coronacast; James Paterson, Liberal Senator for Victoria; Katy Gallagher, Shadow Minister for Finance; Vicky Xu, Journalist and researcher; and David Olsson, President, Australia China Business Council.",
+        "time": "2021-04-15T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H010S00MA1D1_Q+A_S14_E010_HD.mp4",
+        "size": 944863463
     }
 }
