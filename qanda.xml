@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Apr 2021 00:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 00:36:03 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Climate, Politics, and 'Fossil Fools'</title>
+      <link>https://www.abc.net.au/qanda/2021-22-04/13308276</link>
+      <description>Panellists: Malcolm Turnbull, Former Prime Minister; Narelda Jacobs, Presenter, 10 News First and Studio 10; Keith Pitt, Minister for Resources, Water and Northern Australia; Sarah Hanson-Young, South Australian Greens Senator; and Andrew Liveris, Former CEO, The Dow Chemical Company.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-22-04/13308276</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H011S00MA1D1_Q+A_S14_E011_HD.mp4" length="914795269" type="video/mp4"/>
+      <pubDate>Thu, 22 Apr 2021 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>It's Complicated: Vaccines, China, and Saying Sorry</title>
       <link>https://www.abc.net.au/qanda/2021-15-04/13298684</link>

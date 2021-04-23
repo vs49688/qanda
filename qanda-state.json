@@ -5398,5 +5398,15 @@
         "time": "2021-04-15T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H010S00MA1D1_Q+A_S14_E010_HD.mp4",
         "size": 944863463
+    },
+    "13308276": {
+        "episode_id": 13308276,
+        "title": "Climate, Politics, and 'Fossil Fools'",
+        "link": "https://www.abc.net.au/qanda/2021-22-04/13308276",
+        "image_url": "https://www.abc.net.au/cm/rimage/13309818-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Malcolm Turnbull, Former Prime Minister; Narelda Jacobs, Presenter, 10 News First and Studio 10; Keith Pitt, Minister for Resources, Water and Northern Australia; Sarah Hanson-Young, South Australian Greens Senator; and Andrew Liveris, Former CEO, The Dow Chemical Company.",
+        "time": "2021-04-22T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H011S00MA1D1_Q+A_S14_E011_HD.mp4",
+        "size": 914795269
     }
 }
