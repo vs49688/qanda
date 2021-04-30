@@ -5408,5 +5408,15 @@
         "time": "2021-04-22T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H011S00MA1D1_Q+A_S14_E011_HD.mp4",
         "size": 914795269
+    },
+    "13314304": {
+        "episode_id": 13314304,
+        "title": "Diversity, Double Standards and Aussies Trapped Abroad",
+        "link": "https://www.abc.net.au/qanda/2021-29-04/13314304",
+        "image_url": "https://www.abc.net.au/cm/rimage/13319478-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Bridget McKenzie, Nationals Senate Leader; Courtney Act, Performer and advocate; Mark Butler, Shadow Minister for Health and Ageing; Parnell Palme McGuinness, Communications Consultant; and Herv\u00e9 Lemahieu, Director, Power and Diplomacy Program, Lowy Institute.",
+        "time": "2021-04-29T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H012S00AM1D1_Q+A_S14_E012_HD.mp4",
+        "size": 844315668
     }
 }
