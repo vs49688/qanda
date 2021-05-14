@@ -5418,5 +5418,15 @@
         "time": "2021-04-29T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H012S00AM1D1_Q+A_S14_E012_HD.mp4",
         "size": 844315668
+    },
+    "13323030": {
+        "episode_id": 13323030,
+        "title": "Power and Control",
+        "link": "https://www.abc.net.au/qanda/2021-06-05/13323030",
+        "image_url": "https://www.abc.net.au/cm/rimage/13328136-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Alan Kohler, Finance journalist and Editor-in-Chief, The Eureka Report; Jess Hill, Journalist and Author, See What You Made Me Do; Fiona Martin, Liberal Member for Reid; Linda Burney, Shadow Minister for Families and Social Services; and Bri Lee, Author, Eggshell Skull and Beauty. With a live performance from Julia Stone.",
+        "time": "2021-05-06T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H013S00MA1D1_Q+A_S14_E013_HD.mp4",
+        "size": 977293545
     }
 }
