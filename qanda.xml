@@ -7,8 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 May 2021 00:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 May 2021 00:29:40 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Barnaby Meets Lukenomics</title>
+      <link>https://www.abc.net.au/qanda/2021-20-06/13343758</link>
+      <description>Panellists: Luke McGregor, Comedian, writer and actor; Barnaby Joyce, Nationals Member for New England; Gabriela D’Souza, Senior Economist, Committee for Economic Development of Australia; Tony Burke, Shadow Minister for Industrial Relations; and Zoe Whitton, Executive Director, Pollination.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-20-06/13343758</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H015S00MA1D1_Q+A_S14_E015_HD.mp4" length="914218741" type="video/mp4"/>
+      <pubDate>Thu, 20 May 2021 20:30:00 +1000</pubDate>
+    </item>
+    <item>
+      <title>Budget 2021 Special</title>
+      <link>https://www.abc.net.au/qanda/2021-13-06/13332756</link>
+      <description>Panellists: Jane Hume, Minister for Superannuation, Financial Services and the Digital Economy; Jim Chalmers, Shadow Treasurer; Larissa Waters, Greens Senator; Jacqui Lambie, Independent Senator; and Helen Haines, Independent Member for Indi.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-13-06/13332756</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H014S00MA1D1_Q+A_S14_E014_HD.mp4" length="1071676646" type="video/mp4"/>
+      <pubDate>Thu, 13 May 2021 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>Power and Control</title>
       <link>https://www.abc.net.au/qanda/2021-06-05/13323030</link>
