@@ -5448,5 +5448,15 @@
         "time": "2021-05-20T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H015S00MA1D1_Q+A_S14_E015_HD.mp4",
         "size": 914218741
+    },
+    "13352714": {
+        "episode_id": 13352714,
+        "title": "Trauma and Truth-Telling",
+        "link": "https://www.abc.net.au/qanda/2021-27-06/13352714",
+        "image_url": "https://www.abc.net.au/cm/rimage/13352908-16x9-large.jpg?v=9",
+        "teaser": "Panellists: Jennifer Robinson, Human Rights Lawyer; Mitch Tambo, Singer and songwriter; Dave Sharma, Liberal Member for Wentworth; Ed Husic, Labor Member for Chifley; and Randa Abdel-Fattah, Author and academic.",
+        "time": "2021-05-27T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H016S00AM1D1_Q+A_S14_E016_HD.mp4",
+        "size": 809937104
     }
 }
