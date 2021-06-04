@@ -5458,5 +5458,15 @@
         "time": "2021-05-27T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H016S00AM1D1_Q+A_S14_E016_HD.mp4",
         "size": 809937104
+    },
+    "13366570": {
+        "episode_id": 13366570,
+        "title": "Vaccine, Quarantine and Life Outside the Big Cities",
+        "link": "https://www.abc.net.au/qanda/2021-03-06/13366570",
+        "image_url": "https://www.abc.net.au/cm/rimage/13369926-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Tim Wilson, Liberal MP for Goldstein; Stephen Jones, Labor MP for Whitlam; Diane Smith-Gander, National Chair, CEDA; Gordon Bradbery, Lord Mayor of Wollongong; and Lisa Jackson Pulver, Deputy Vice-Chancellor Indigenous Strategy and Services, University of Sydney. With guest host Stan Grant.",
+        "time": "2021-06-03T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H017S00MA1D1_Q+A_S14_E017_HD.mp4",
+        "size": 1079208145
     }
 }
