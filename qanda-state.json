@@ -5468,5 +5468,15 @@
         "time": "2021-06-03T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H017S00MA1D1_Q+A_S14_E017_HD.mp4",
         "size": 1079208145
+    },
+    "13376618": {
+        "episode_id": 13376618,
+        "title": "Health and Humanity",
+        "link": "https://www.abc.net.au/qanda/2021-10-06/13376618",
+        "image_url": "https://www.abc.net.au/cm/rimage/13377154-16x9-large.jpg?v=5",
+        "teaser": "Panellists: Omar Khorshid, President, Australian Medical Association; Kamalini Lokuge, Epidemiologist, Australian National University; Peter Hartcher, Political Editor, The Sydney Morning Herald and The Age; Sally Scales, APY Art Centre Collective Regional Programs Coordinator and Uluru Statement Leadership; and Cameron Murray, Economist and Research Fellow.",
+        "time": "2021-06-10T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H018S00MA1D1_Q+A_S14_E018_HD.mp4",
+        "size": 1081209068
     }
 }
