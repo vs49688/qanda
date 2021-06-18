@@ -5478,5 +5478,15 @@
         "time": "2021-06-10T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H018S00MA1D1_Q+A_S14_E018_HD.mp4",
         "size": 1081209068
+    },
+    "13384946": {
+        "episode_id": 13384946,
+        "title": "Boats, Boys Clubs and Businesses on the Brink",
+        "link": "https://www.abc.net.au/qanda/2021-17-06/13384946",
+        "image_url": "https://www.abc.net.au/cm/rimage/13384950-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Darren Chester, Minister for Veterans' Affairs and Defence Personnel; Clare O'Neil, Shadow Minister for Senior Australians and Aged Care Services; Hana Assafiri, Businesswoman and social change agent; Susan Alberti, Businesswoman and philanthropist; and Tom Elliott, Radio broadcaster.",
+        "time": "2021-06-17T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H019S00MA1D1_Q+A_S14_E019_HD.mp4",
+        "size": 979112322
     }
 }
