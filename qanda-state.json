@@ -5488,5 +5488,15 @@
         "time": "2021-06-17T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H019S00MA1D1_Q+A_S14_E019_HD.mp4",
         "size": 979112322
+    },
+    "13399890": {
+        "episode_id": 13399890,
+        "title": "Sydney Surge and Life on the Spectrum",
+        "link": "https://www.abc.net.au/qanda/2021-24-06/13399890",
+        "image_url": "https://www.abc.net.au/cm/rimage/13417956-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Jayden Evans, Love on the Spectrum participant and disability worker; Bill Bowtell, Adjunct Professor, UNSW and Strategic Health Policy Adviser; Marylouise McLaws, Epidemiologist; Nicole Rogerson, CEO of Autism Awareness Australia; Hollie Hughes, Liberal Senator for NSW; and Andrew Leigh, Shadow Assistant Minister for Treasury and Charities.",
+        "time": "2021-06-24T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H020S00MA1D1_Q+A_S14_E020_HD.mp4",
+        "size": 912622456
     }
 }
