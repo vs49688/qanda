@@ -5498,5 +5498,25 @@
         "time": "2021-06-24T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H020S00MA1D1_Q+A_S14_E020_HD.mp4",
         "size": 912622456
+    },
+    "13418000": {
+        "episode_id": 13418000,
+        "title": "Vaccines: Supply and Demand",
+        "link": "https://www.abc.net.au/qanda/2021-01-07/13418000",
+        "image_url": "https://www.abc.net.au/cm/rimage/13426858-16x9-large.jpg?v=5",
+        "teaser": "Panellists: Annastacia Palaszczuk, Premier of Queensland; Jason Falinski, NSW Liberal MP; Michelle Ananda-Rajah, Infectious diseases expert; Stephen Duckett, Director of Health and Aged Care, Grattan Institute; and Jennifer Hewett, National Affairs Columnist, Australian Financial Review.",
+        "time": "2021-07-01T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H021S00MA1D1_Q+A_S14_E021_HD.mp4",
+        "size": 937553645
+    },
+    "13427966": {
+        "episode_id": 13427966,
+        "title": "The Ethics of Accountability",
+        "link": "https://www.abc.net.au/qanda/2021-08-07/13427966",
+        "image_url": "https://www.abc.net.au/cm/rimage/13432044-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Peter Singer, Philosopher; Katie Allen, Liberal Member for Higgins; Malarndirri McCarthy, Labor Senator for Northern Territory; Santilla Chingaipe, Journalist, filmmaker and author; and Cameron Stewart, Associate Editor of The Australian. With guest host David Speers.",
+        "time": "2021-07-08T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H022S00MA1D1_Q+A_S14_E022_HD.mp4",
+        "size": 915650936
     }
 }
