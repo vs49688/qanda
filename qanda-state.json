@@ -5518,5 +5518,15 @@
         "time": "2021-07-08T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H022S00MA1D1_Q+A_S14_E022_HD.mp4",
         "size": 915650936
+    },
+    "13442838": {
+        "episode_id": 13442838,
+        "title": "Dealing with Delta",
+        "link": "https://www.abc.net.au/qanda/2021-15-07/13442838",
+        "image_url": "https://www.abc.net.au/cm/rimage/13443226-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Marylouise McLaws, Epidemiologist; Steve Price, Radio broadcaster; Mukesh Haikerwal, GP and former President of the AMA; Meshel Laurie, Podcaster and author; and Alison Pennington, Economist, The Centre for Future Work. With guest host Virginia Trioli.",
+        "time": "2021-07-15T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H023S00MA1D1_Q+A_S14_E023_HD.mp4",
+        "size": 996607737
     }
 }
