@@ -5528,5 +5528,15 @@
         "time": "2021-07-15T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H023S00MA1D1_Q+A_S14_E023_HD.mp4",
         "size": 996607737
+    },
+    "13447250": {
+        "episode_id": 13447250,
+        "title": "The Olympics and Opening Up",
+        "link": "https://www.abc.net.au/qanda/2021-22-07/13447250",
+        "image_url": "https://www.abc.net.au/cm/rimage/13448416-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Libby Trickett, Olympic Gold Medallist; Russel Howcroft, Broadcaster; David Gillespie, Regional Health Minister; Bill Shorten, Shadow Minister for the NDIS and Government Services; and Astrid Edwards, Podcaster, teacher and disability advocate.",
+        "time": "2021-07-22T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H024S00MA1D1_Q+A_S14_E024_HD.mp4",
+        "size": 914588909
     }
 }

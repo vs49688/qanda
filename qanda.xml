@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jul 2021 00:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 00:25:08 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>The Olympics and Opening Up</title>
+      <link>https://www.abc.net.au/qanda/2021-22-07/13447250</link>
+      <description>Panellists: Libby Trickett, Olympic Gold Medallist; Russel Howcroft, Broadcaster; David Gillespie, Regional Health Minister; Bill Shorten, Shadow Minister for the NDIS and Government Services; and Astrid Edwards, Podcaster, teacher and disability advocate.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-22-07/13447250</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H024S00MA1D1_Q+A_S14_E024_HD.mp4" length="914588909" type="video/mp4"/>
+      <pubDate>Thu, 22 Jul 2021 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>Dealing with Delta</title>
       <link>https://www.abc.net.au/qanda/2021-15-07/13442838</link>
