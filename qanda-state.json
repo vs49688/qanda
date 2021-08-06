@@ -5538,5 +5538,25 @@
         "time": "2021-07-22T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H024S00MA1D1_Q+A_S14_E024_HD.mp4",
         "size": 914588909
+    },
+    "13480066": {
+        "episode_id": 13480066,
+        "title": "Opening Up: Lessons from the World",
+        "link": "https://www.abc.net.au/qanda/2021-05-08/13480066",
+        "image_url": "https://www.abc.net.au/cm/rimage/13480128-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Helen Clark, Former Prime Minister of New Zealand; Dr Eric Feigl-Ding, Epidemiologist and health economist; Yulia Supadmo, Chief editor, Rajawali Televisi; Damien Cave, Australian bureau chief, The New York Times; Julie Leask, Vaccine specialist; and Kate Mills, CEO Property Industry Foundation.",
+        "time": "2021-08-05T20:30+1000",
+        "download_url": null,
+        "size": 0
+    },
+    "13471642": {
+        "episode_id": 13471642,
+        "title": "Sending in the Army and Getting Back to Work",
+        "link": "https://www.abc.net.au/qanda/2021-29-07/13471642",
+        "image_url": "https://www.abc.net.au/cm/rimage/13471640-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Deborah Cheetham, Artistic Director, Short Black Opera; Andrew Bragg, Liberal Senator for NSW; Chris Bowen, Shadow Minister for Climate Change and Energy; Clover Moore, Lord Mayor of Sydney; and Michael Mohammed Ahmad, Author and founding director of Sweatshop Literacy Movement.",
+        "time": "2021-07-29T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H025S00MA1D1_Q+A_S14_E025_HD.mp4",
+        "size": 884162278
     }
 }
