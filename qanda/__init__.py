@@ -57,53 +57,37 @@ def parse_year_page(xx: bs4.BeautifulSoup, episodes: dict):
 
 # Fetch all episodes in a year
 def fetch_year(year: int, episodes: dict):
-    params = {'year': str(year)}
+
+    params = {
+        'view': 'findarchive.ajax',
+        'year': str(year),
+    }
 
     pg = 1
     while True:
-        if pg != 1:
-            params['pageNum'] = str(pg)
-            params['view'] = 'findarchive.ajax'
+        params['pageNum'] = str(pg)
 
-            url = urllib.parse.urlunparse((
-                'https',
-                'www.abc.net.au',
-                '/qanda/episodes/pagination/search/archive/10466362',
-                '',
-                urllib.parse.urlencode(params),
-                ''
-            ))
-        else:
-            url = urllib.parse.urlunparse((
-                'https',
-                'www.abc.net.au',
-                '/qanda/episodes/',
-                '',
-                urllib.parse.urlencode(params),
-                ''
-            ))
+        url = urllib.parse.urlunparse((
+            'https',
+            'www.abc.net.au',
+            '/qanda/episodes/pagination/search/archive/10466362',
+            '',
+            urllib.parse.urlencode(params),
+            ''
+        ))
 
         req = urllib.request.Request(
             url=url,
             headers={'User-Agent': 'Mozilla/5.0'}
         )
 
-        print(url, file=sys.stderr)
-
-        try:
-            with urllib.request.urlopen(req) as x:
-                if x.getcode() != 200:
-                    raise Exception(f'HTTP {x.getcode()} on {url}')
-                html = bs4.BeautifulSoup(x.read().decode('utf-8'), 'html5lib')
-        except urllib.error.HTTPError as e:
-            print(f'WARN: HTTP {e.getcode()} on {url}, assuming explicit rejection...', file=sys.stderr)
-            break
-
-        if pg == 1:
-            html = html.find('div', role='tabpanel')
+        with urllib.request.urlopen(req) as x:
+            if x.getcode() != 200:
+                raise Exception(f'HTTP {x.getcode()} on {url}')
+            html = bs4.BeautifulSoup(x.read().decode('utf-8'), 'html5lib')
 
         amount = parse_year_page(html, episodes)
-        print(f'Added {amount} episodes...', file=sys.stderr)
+        #print(f'Added {amount} episodes...', file=sys.stderr)
         if amount == 0:
             break
         pg += 1
