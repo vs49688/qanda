@@ -5558,5 +5558,15 @@
         "time": "2021-07-29T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H025S00MA1D1_Q+A_S14_E025_HD.mp4",
         "size": 884162278
+    },
+    "13489378": {
+        "episode_id": 13489378,
+        "title": "The Cost of Climate and COVID",
+        "link": "https://www.abc.net.au/qanda/2021-12-08/13489378",
+        "image_url": "https://www.abc.net.au/cm/rimage/13490640-16x9-large.jpg?v=5",
+        "teaser": "Panellists: Matt Canavan, Nationals Senator for Queensland; Catherine King, Shadow Minister for Infrastructure and Regional Development; Alan Kohler, Financial journalist; Paul Zahra, CEO, Australian Retailers Association; and Angela Jackson, Health economist.",
+        "time": "2021-08-12T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H027S00MA1D1_Q+A_S14_E027_HD.mp4",
+        "size": 944896743
     }
 }
