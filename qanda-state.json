@@ -5568,5 +5568,15 @@
         "time": "2021-08-12T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H027S00MA1D1_Q+A_S14_E027_HD.mp4",
         "size": 944896743
+    },
+    "13498962": {
+        "episode_id": 13498962,
+        "title": "The Taliban Takeover and Afghanistan's Future",
+        "link": "https://www.abc.net.au/qanda/2021-19-08/13498962",
+        "image_url": "https://www.abc.net.au/cm/rimage/13498948-16x9-large.jpg?v=10",
+        "teaser": "Panellists: Darren Chester, Nationals Member for Gippsland; Bob Carr, Former Labor Foreign Minister; Diana Sayed, CEO, Australian Muslim Women\u2019s Centre for Human Rights; Lydia Khalil, International Security Expert; Daniel Keighran, Afghanistan Veteran and Victoria Cross recipient; and Yalda Hakim, BBC Host and correspondent.",
+        "time": "2021-08-19T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H028S00MA1D1_Q+A_S14_E028_HD.mp4",
+        "size": 921917670
     }
 }
