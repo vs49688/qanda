@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Aug 2021 12:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 00:27:45 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>The Kids Are Alright</title>
+      <link>https://www.abc.net.au/qanda/2021-26-08/13495220</link>
+      <description>Panellists: Norman Swan, Aus. Research Alliance for Children and Youth and Coronacast presenter; Anthea Rhodes, Paediatrician and child health researcher; Fiona Russell, Paediatrician and epidemiologist; Petria Houvardas, Year 12 student from Sydney; and Arth Tuteja, Year 11 student from Melbourne.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-26-08/13495220</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H029S00MA1D1_Q+A_S14_E029_HD_TX_Master.mp4" length="878469165" type="video/mp4"/>
+      <pubDate>Thu, 26 Aug 2021 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>The Taliban Takeover and Afghanistan's Future</title>
       <link>https://www.abc.net.au/qanda/2021-19-08/13498962</link>

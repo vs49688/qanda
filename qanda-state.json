@@ -5578,5 +5578,15 @@
         "time": "2021-08-05T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H026S00MA1D1_Q+A_S14_E026_HD.mp4",
         "size": 957748968
+    },
+    "13495220": {
+        "episode_id": 13495220,
+        "title": "The Kids Are Alright",
+        "link": "https://www.abc.net.au/qanda/2021-26-08/13495220",
+        "image_url": "https://www.abc.net.au/cm/rimage/13495346-16x9-large.jpg?v=8",
+        "teaser": "Panellists: Norman Swan, Aus. Research Alliance for Children and Youth and Coronacast presenter; Anthea Rhodes, Paediatrician and child health researcher; Fiona Russell, Paediatrician and epidemiologist; Petria Houvardas, Year 12 student from Sydney; and Arth Tuteja, Year 11 student from Melbourne.",
+        "time": "2021-08-26T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H029S00MA1D1_Q+A_S14_E029_HD_TX_Master.mp4",
+        "size": 878469165
     }
 }
