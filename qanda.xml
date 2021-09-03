@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Aug 2021 00:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 00:24:12 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Women's Safety: Less Talk, More Action</title>
+      <link>https://www.abc.net.au/qanda/2021-02-09/13515774</link>
+      <description>Panellists: Grace Tame, Australian of the Year; Reece Kershaw, Commissioner of the Australian Federal Police; Marcia Langton, Professor of Indigenous Studies; Anne Ruston, Minister for Women’s Safety; and Penny Wong, Shadow Minister for Foreign Affairs.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-02-09/13515774</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H030S00MA1D1_Q+A_S14_E030_HD.mp4" length="864706790" type="video/mp4"/>
+      <pubDate>Thu, 02 Sep 2021 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>The Kids Are Alright</title>
       <link>https://www.abc.net.au/qanda/2021-26-08/13495220</link>
