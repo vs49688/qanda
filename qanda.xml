@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Sep 2021 00:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 00:29:03 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>The Power of Words</title>
+      <link>https://www.abc.net.au/qanda/2021-09-09/13522568</link>
+      <description>Panellists: John Safran, Writer and filmmaker; Virginia Gay, Actor, writer and director; Julia Banks, Author, lawyer, and former Federal Liberal and Independent MP; Tony Armstrong, ABC News Breakfast presenter and former AFL player; Rachel Doyle, Barrister; and Yanis Varoufakis, Greek economist and author.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-09-09/13522568</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H031S00MA1D1_Q+A_S14_E031_HD.mp4" length="971052247" type="video/mp4"/>
+      <pubDate>Thu, 09 Sep 2021 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>Women's Safety: Less Talk, More Action</title>
       <link>https://www.abc.net.au/qanda/2021-02-09/13515774</link>

@@ -5598,5 +5598,15 @@
         "time": "2021-09-02T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H030S00MA1D1_Q+A_S14_E030_HD.mp4",
         "size": 864706790
+    },
+    "13522568": {
+        "episode_id": 13522568,
+        "title": "The Power of Words",
+        "link": "https://www.abc.net.au/qanda/2021-09-09/13522568",
+        "image_url": "https://www.abc.net.au/cm/rimage/13529230-16x9-large.jpg?v=2",
+        "teaser": "Panellists: John Safran, Writer and filmmaker; Virginia Gay, Actor, writer and director; Julia Banks, Author, lawyer, and former Federal Liberal and Independent MP; Tony Armstrong, ABC News Breakfast presenter and former AFL player; Rachel Doyle, Barrister; and Yanis Varoufakis, Greek economist and author.",
+        "time": "2021-09-09T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H031S00MA1D1_Q+A_S14_E031_HD.mp4",
+        "size": 971052247
     }
 }
