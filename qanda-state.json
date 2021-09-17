@@ -5608,5 +5608,15 @@
         "time": "2021-09-09T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H031S00MA1D1_Q+A_S14_E031_HD.mp4",
         "size": 971052247
+    },
+    "13535100": {
+        "episode_id": 13535100,
+        "title": "A Tale of Two Cities",
+        "link": "https://www.abc.net.au/qanda/2021-16-09/13535100",
+        "image_url": "https://www.abc.net.au/cm/rimage/13539270-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Dave Sharma, Liberal Member for Wentworth; Linda Burney, Shadow Minister for Families and Social Services; Mariam Veiszadeh, Lawyer and Diversity & Inclusion Champion; Khal Asfour, Mayor of Canterbury Bankstown; John Lee, Foreign Affairs expert, United States Studies Centre; and Chris Barrie, retired senior officer of the Royal Australian Navy.",
+        "time": "2021-09-16T21:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H032S00MA1D1_Q+A_S14_E032_HD.mp4",
+        "size": 836664580
     }
 }
