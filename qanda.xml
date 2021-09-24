@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Sep 2021 00:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 00:26:56 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>A Trip to the Future: A Q+A Science Special</title>
+      <link>https://www.abc.net.au/qanda/2021-23-09/13544860</link>
+      <description>Panellists: Brian Schmidt, Nobel laureate and Vice-Chancellor, ANU; Lidia Morawska, International Air Quality expert; Michael Biercuk, Quantum Physicist and innovator; Vanessa Pirotta, Wildlife scientist and science communicator; Toby Walsh, Artificial Intelligence expert; and Kirsten Banks, Astrophysicist and science communicator.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-23-09/13544860</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H033S00MA1D1_Q+A_S14_E033_HD.mp4" length="846594786" type="video/mp4"/>
+      <pubDate>Thu, 23 Sep 2021 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>A Tale of Two Cities</title>
       <link>https://www.abc.net.au/qanda/2021-16-09/13535100</link>

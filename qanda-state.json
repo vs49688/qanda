@@ -5618,5 +5618,15 @@
         "time": "2021-09-16T21:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H032S00MA1D1_Q+A_S14_E032_HD.mp4",
         "size": 836664580
+    },
+    "13544860": {
+        "episode_id": 13544860,
+        "title": "A Trip to the Future: A Q+A Science Special",
+        "link": "https://www.abc.net.au/qanda/2021-23-09/13544860",
+        "image_url": "https://www.abc.net.au/cm/rimage/13553448-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Brian Schmidt, Nobel laureate and Vice-Chancellor, ANU; Lidia Morawska, International Air Quality expert; Michael Biercuk, Quantum Physicist and innovator; Vanessa Pirotta, Wildlife scientist and science communicator; Toby Walsh, Artificial Intelligence expert; and Kirsten Banks, Astrophysicist and science communicator.",
+        "time": "2021-09-23T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H033S00MA1D1_Q+A_S14_E033_HD.mp4",
+        "size": 846594786
     }
 }
