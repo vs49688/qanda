@@ -5628,5 +5628,15 @@
         "time": "2021-09-23T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H033S00MA1D1_Q+A_S14_E033_HD.mp4",
         "size": 846594786
+    },
+    "13559810": {
+        "episode_id": 13559810,
+        "title": "The Ethics of Mandatory Vaccination",
+        "link": "https://www.abc.net.au/qanda/2021-30-09/13559810",
+        "image_url": "https://www.abc.net.au/cm/rimage/13559914-16x9-large.jpg?v=5",
+        "teaser": "Panellists: Jennifer Westacott, CEO, Business Council of Australia; Sally McManus, Secretary, ACTU; Simon Longstaff, Executive Director, The Ethics Centre; Dinesh Palipana, Emergency doctor and disability advocate; and Bruce Keebaugh, Founder, The Big Group.",
+        "time": "2021-09-30T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H034S00MA1D1_Q+A_S14_E034_HD.mp4",
+        "size": 844296423
     }
 }
