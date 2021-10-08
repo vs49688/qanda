@@ -5638,5 +5638,15 @@
         "time": "2021-09-30T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H034S00MA1D1_Q+A_S14_E034_HD.mp4",
         "size": 844296423
+    },
+    "13563302": {
+        "episode_id": 13563302,
+        "title": "Corruption, Scams, and Misinformation",
+        "link": "https://www.abc.net.au/qanda/2021-07-10/13563302",
+        "image_url": "https://www.abc.net.au/cm/rimage/13563338-16x9-large.jpg?v=5",
+        "teaser": "Panellists: Paul Fletcher, Minister for Communications and the Arts; Tanya Plibersek, Shadow Minister for Education; Marc Fennell, Journalist; Zara Seidler, Co-founder, The Daily Aus; and Alastair MacGibbon, CyberCX chief strategy officer and former federal cybersecurity advisor.",
+        "time": "2021-10-07T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H035S00MA1D1_Q+A_S14_E035_HD.mp4",
+        "size": 842325224
     }
 }
