@@ -7,8 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Oct 2021 00:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Oct 2021 00:31:57 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Australia's Climate Future</title>
+      <link>https://www.abc.net.au/qanda/2021-21-10/13586742</link>
+      <description>Panellists: Simon Holmes à Court, Cleantech investor and Founder of Climate 200; Tim Wilson, Assistant Minister for Industry, Energy and Emissions Reductions; Chris Bowen, Shadow Minister for Climate Change and Energy; Amelia Telford, National Director of the Seed Indigenous Youth Climate Network; Anne Baker, Mayor of Isaac Regional Council.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-21-10/13586742</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H037S00MA1D1_Q+A_S14_E037_HD.mp4" length="877523176" type="video/mp4"/>
+      <pubDate>Thu, 21 Oct 2021 20:30:00 +1100</pubDate>
+    </item>
+    <item>
+      <title>Big Money and Politics</title>
+      <link>https://www.abc.net.au/qanda/2021-14-10/13577314</link>
+      <description>Panellists: Craig Reucassel, Writer, director and comedian; Kate Roffey, Business Leader; Andrew Bragg, Liberal Senator for NSW; Mark Dreyfus, Shadow Attorney-General; and Helen Haines, Independent Member for Indi.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-14-10/13577314</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H036S00MA1D1_Q+A_S14_E036_HD.mp4" length="880707428" type="video/mp4"/>
+      <pubDate>Thu, 14 Oct 2021 20:30:00 +1100</pubDate>
+    </item>
     <item>
       <title>Corruption, Scams, and Misinformation</title>
       <link>https://www.abc.net.au/qanda/2021-07-10/13563302</link>

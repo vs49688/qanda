@@ -5648,5 +5648,25 @@
         "time": "2021-10-07T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H035S00MA1D1_Q+A_S14_E035_HD.mp4",
         "size": 842325224
+    },
+    "13577314": {
+        "episode_id": 13577314,
+        "title": "Big Money and Politics",
+        "link": "https://www.abc.net.au/qanda/2021-14-10/13577314",
+        "image_url": "https://www.abc.net.au/cm/rimage/13579992-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Craig Reucassel, Writer, director and comedian; Kate Roffey, Business Leader; Andrew Bragg, Liberal Senator for NSW; Mark Dreyfus, Shadow Attorney-General; and Helen Haines, Independent Member for Indi.",
+        "time": "2021-10-14T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H036S00MA1D1_Q+A_S14_E036_HD.mp4",
+        "size": 880707428
+    },
+    "13586742": {
+        "episode_id": 13586742,
+        "title": "Australia's Climate Future",
+        "link": "https://www.abc.net.au/qanda/2021-21-10/13586742",
+        "image_url": "https://www.abc.net.au/cm/rimage/13591250-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Simon Holmes \u00e0 Court, Cleantech investor and Founder of Climate 200; Tim Wilson, Assistant Minister for Industry, Energy and Emissions Reductions; Chris Bowen, Shadow Minister for Climate Change and Energy; Amelia Telford, National Director of the Seed Indigenous Youth Climate Network; Anne Baker, Mayor of Isaac Regional Council.",
+        "time": "2021-10-21T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H037S00MA1D1_Q+A_S14_E037_HD.mp4",
+        "size": 877523176
     }
 }
