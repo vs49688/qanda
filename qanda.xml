@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Oct 2021 00:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Oct 2021 00:25:54 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>The Power and Appeal of Shakespeare</title>
+      <link>https://www.abc.net.au/qanda/2021-28-10/13596856</link>
+      <description>Panellists: John Bell, Founding Artistic Director of Bell Shakespeare; Nakkiah Lui, Writer, actor, and director and Gamillaroi/Torres Strait Islander woman; Paul McDermott, Satirist and entertainer; Bri Lee, Author, academic and activist; and Tim Dean, Philosopher and author. With a special closing performance from Zahra Newman.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-28-10/13596856</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H038S00MA1D1_Q+A_S14_E038_HD.mp4" length="861196491" type="video/mp4"/>
+      <pubDate>Thu, 28 Oct 2021 20:30:00 +1100</pubDate>
+    </item>
     <item>
       <title>Australia's Climate Future</title>
       <link>https://www.abc.net.au/qanda/2021-21-10/13586742</link>

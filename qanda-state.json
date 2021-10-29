@@ -5668,5 +5668,15 @@
         "time": "2021-10-21T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H037S00MA1D1_Q+A_S14_E037_HD.mp4",
         "size": 877523176
+    },
+    "13596856": {
+        "episode_id": 13596856,
+        "title": "The Power and Appeal of Shakespeare",
+        "link": "https://www.abc.net.au/qanda/2021-28-10/13596856",
+        "image_url": "https://www.abc.net.au/cm/rimage/13596848-16x9-large.jpg?v=3",
+        "teaser": "Panellists: John Bell, Founding Artistic Director of\u00a0Bell Shakespeare; Nakkiah Lui, Writer, actor, and director and Gamillaroi/Torres Strait Islander woman; Paul McDermott, Satirist and entertainer; Bri Lee, Author, academic and activist; and Tim Dean, Philosopher and author. With a special closing performance from Zahra Newman.",
+        "time": "2021-10-28T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H038S00MA1D1_Q+A_S14_E038_HD.mp4",
+        "size": 861196491
     }
 }
