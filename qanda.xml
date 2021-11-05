@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Oct 2021 00:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Nov 2021 00:27:32 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Lies, Leaks and Climate Promises</title>
+      <link>https://www.abc.net.au/qanda/2021-04-11/13612046</link>
+      <description>Panellists: Matt Kean, NSW Treasurer; Adam Bandt, Leader of the Australian Greens; Blair Palese, Managing Editor, Climate &amp;amp; Capital Media; Greg Sheridan, Foreign Editor, The Australian; and Kavita Naidu, International climate justice lawyer.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-04-11/13612046</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H039S00MA1D1_Q+A_S14_E039_HD.mp4" length="872056552" type="video/mp4"/>
+      <pubDate>Thu, 04 Nov 2021 20:30:00 +1100</pubDate>
+    </item>
     <item>
       <title>The Power and Appeal of Shakespeare</title>
       <link>https://www.abc.net.au/qanda/2021-28-10/13596856</link>

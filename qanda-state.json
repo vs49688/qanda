@@ -5678,5 +5678,15 @@
         "time": "2021-10-28T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H038S00MA1D1_Q+A_S14_E038_HD.mp4",
         "size": 861196491
+    },
+    "13612046": {
+        "episode_id": 13612046,
+        "title": "Lies, Leaks and Climate Promises",
+        "link": "https://www.abc.net.au/qanda/2021-04-11/13612046",
+        "image_url": "https://www.abc.net.au/cm/rimage/13613564-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Matt Kean, NSW Treasurer; Adam Bandt, Leader of the Australian Greens; Blair Palese, Managing Editor, Climate & Capital Media; Greg Sheridan, Foreign Editor, The Australian; and Kavita Naidu, International climate justice lawyer.",
+        "time": "2021-11-04T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H039S00MA1D1_Q+A_S14_E039_HD.mp4",
+        "size": 872056552
     }
 }
