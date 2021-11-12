@@ -5688,5 +5688,15 @@
         "time": "2021-11-04T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H039S00MA1D1_Q+A_S14_E039_HD.mp4",
         "size": 872056552
+    },
+    "13621630": {
+        "episode_id": 13621630,
+        "title": "Shifting Allegiances",
+        "link": "https://www.abc.net.au/qanda/2021-11-11/13621630",
+        "image_url": "https://www.abc.net.au/cm/rimage/13623770-16x9-large.jpg?v=5",
+        "teaser": "Panellists: James Paterson, Liberal Senator for Victoria; Ed Husic, Labor Member for Chifley; Chris Uhlmann, Nine News political editor; Lavina Lee, International relations expert; and Yun Jiang, Producer of China Neican and editor at ANU.",
+        "time": "2021-11-11T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H040S00MA1D1_Q+A_S14_E040_HD.mp4",
+        "size": 836011234
     }
 }
