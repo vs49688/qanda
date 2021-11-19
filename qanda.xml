@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Nov 2021 00:28:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 00:27:54 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>The Great Resignation</title>
+      <link>https://www.abc.net.au/qanda/2021-18-11/13625024</link>
+      <description>Panellists: George Megalogenis, Author and journalist; Jane Halton, Health policy expert; Andy Penn, Telstra CEO and Managing Director; Emma Fulu, Executive Director of the Equality Institute; and Eliza Hull, Musician, disability advocate and writer.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2021-18-11/13625024</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H041S00MA1D1_Q+A_S14_E041_HD.mp4" length="927126265" type="video/mp4"/>
+      <pubDate>Thu, 18 Nov 2021 20:30:00 +1100</pubDate>
+    </item>
     <item>
       <title>Shifting Allegiances</title>
       <link>https://www.abc.net.au/qanda/2021-11-11/13621630</link>

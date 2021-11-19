@@ -5698,5 +5698,15 @@
         "time": "2021-11-11T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H040S00MA1D1_Q+A_S14_E040_HD.mp4",
         "size": 836011234
+    },
+    "13625024": {
+        "episode_id": 13625024,
+        "title": "The Great Resignation",
+        "link": "https://www.abc.net.au/qanda/2021-18-11/13625024",
+        "image_url": "https://www.abc.net.au/cm/rimage/13625018-16x9-large.jpg?v=2",
+        "teaser": "Panellists: George Megalogenis, Author and journalist; Jane Halton, Health policy expert; Andy Penn, Telstra CEO and Managing Director; Emma Fulu, Executive Director of the Equality Institute; and Eliza Hull, Musician, disability advocate and writer.",
+        "time": "2021-11-18T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H041S00MA1D1_Q+A_S14_E041_HD.mp4",
+        "size": 927126265
     }
 }
