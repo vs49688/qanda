@@ -5708,5 +5708,15 @@
         "time": "2021-11-18T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H041S00MA1D1_Q+A_S14_E041_HD.mp4",
         "size": 927126265
+    },
+    "13642096": {
+        "episode_id": 13642096,
+        "title": "Freedom, Faith, and Crossing the Floor",
+        "link": "https://www.abc.net.au/qanda/2021-25-11/13642096",
+        "image_url": "https://www.abc.net.au/cm/rimage/13644550-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Jason Falinski, NSW Liberal MP; Andrew Barr, ACT Chief Minister; Melinda Cilento, Company director and economist; Yaara Bou Melham, Journalist and documentary filmmaker; and Michael Jensen, Theologian and Pastor.",
+        "time": "2021-11-25T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H042S00MA1D1_Q+A_S14_E042_HD.mp4",
+        "size": 862373087
     }
 }
