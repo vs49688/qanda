@@ -5718,5 +5718,15 @@
         "time": "2021-11-25T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H042S00MA1D1_Q+A_S14_E042_HD.mp4",
         "size": 862373087
+    },
+    "13648652": {
+        "episode_id": 13648652,
+        "title": "Power, Protests and Parliament: Q+A Season Finale",
+        "link": "https://www.abc.net.au/qanda/2021-02-12/13648652",
+        "image_url": "https://www.abc.net.au/cm/rimage/13648638-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Missy Higgins, Singer/songwriter; Arj Barker, Comedian; Narelda Jacobs, Presenter, 10 News First and Studio 10; John Roskam, Executive Director, Institute of Public Affairs; and Hugh van Cuylenburg, Founder, The Resilience Project.",
+        "time": "2021-12-02T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H043S00MA1D1_Q+A_S14_E043_HD.mp4",
+        "size": 971277015
     }
 }
