@@ -5728,5 +5728,15 @@
         "time": "2021-12-02T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2104H043S00MA1D1_Q+A_S14_E043_HD.mp4",
         "size": 971277015
+    },
+    "13737804": {
+        "episode_id": 13737804,
+        "title": "Power, Expectations and Making Change",
+        "link": "https://www.abc.net.au/qanda/2022-10-02/13737804",
+        "image_url": "https://www.abc.net.au/cm/rimage/13743626-16x9-large.jpg?v=5",
+        "teaser": "Panellists: Dylan Alcott, 2022 Australian of the Year; Rosie Batty, 2015 Australian of the Year; Tom Calma, Indigenous Voice Co-chair; Katie Allen, Liberal Member for Higgins; and Tanya Plibersek, Shadow Minister for Education and Women.",
+        "time": "2022-02-10T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H001S00MA1D1_Q+A_S15_E001_HD.mp4",
+        "size": 923411695
     }
 }
