@@ -5738,5 +5738,15 @@
         "time": "2022-02-10T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H001S00MA1D1_Q+A_S15_E001_HD.mp4",
         "size": 923411695
+    },
+    "13749544": {
+        "episode_id": 13749544,
+        "title": "Russia, Donations and Distractions",
+        "link": "https://www.abc.net.au/qanda/2022-17-02/13749544",
+        "image_url": "https://www.abc.net.au/cm/rimage/13757406-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Chris Bowen, Shadow Minister for Climate Change and Energy; Andrew Constance, Liberal candidatefor Gilmore; Allegra Spender, Independent candidate for Wentworth; Lavina Lee, International Relations Expert; and Greg Sheridan, Foreign Editor, The Australian.",
+        "time": "2022-02-17T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H002S00MA1D1_Q+A_S15_E002_HD.mp4",
+        "size": 897010905
     }
 }

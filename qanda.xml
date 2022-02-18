@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Feb 2022 00:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Feb 2022 00:35:41 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Russia, Donations and Distractions</title>
+      <link>https://www.abc.net.au/qanda/2022-17-02/13749544</link>
+      <description>Panellists: Chris Bowen, Shadow Minister for Climate Change and Energy; Andrew Constance, Liberal candidatefor Gilmore; Allegra Spender, Independent candidate for Wentworth; Lavina Lee, International Relations Expert; and Greg Sheridan, Foreign Editor, The Australian.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2022-17-02/13749544</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H002S00MA1D1_Q+A_S15_E002_HD.mp4" length="897010905" type="video/mp4"/>
+      <pubDate>Thu, 17 Feb 2022 20:30:00 +1100</pubDate>
+    </item>
     <item>
       <title>Power, Expectations and Making Change</title>
       <link>https://www.abc.net.au/qanda/2022-10-02/13737804</link>
