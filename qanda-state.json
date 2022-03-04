@@ -5748,5 +5748,25 @@
         "time": "2022-02-17T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H002S00MA1D1_Q+A_S15_E002_HD.mp4",
         "size": 897010905
+    },
+    "13769842": {
+        "episode_id": 13769842,
+        "title": "Putin's War",
+        "link": "https://www.abc.net.au/qanda/2022-03-03/13769842",
+        "image_url": "https://www.abc.net.au/cm/rimage/13777790-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Dennis Richardson, Former Director-General of ASIO; Deborah Snow, Senior writer, Sydney Morning Herald and former Moscow correspondent; Jason Falinski, NSW Liberal MP; Brendan O'Connor, Shadow Minister for Defence; and Olga Boichak, Lecturer in Digital Cultures, University of Sydney.",
+        "time": "2022-03-03T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H004S00MA1D1_Q+A_S15_E004_HD.mp4",
+        "size": 1002433739
+    },
+    "13758966": {
+        "episode_id": 13758966,
+        "title": "Opening Up: Anxiety and Mental Health",
+        "link": "https://www.abc.net.au/qanda/2022-24-02/13758966",
+        "image_url": "https://www.abc.net.au/cm/rimage/13761200-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Jelena Dokic, Former World No. 4 tennis player and broadcaster; Brooke Blurton, Mental health advocate; Bridget Archer, Federal Member for Bass; Stephen Jones, Labor MP for Whitlam; and Mark Cross, Psychiatrist and author. With a live performance from the legendary Archie Roach.",
+        "time": "2022-02-24T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H003S00AM1D1_Q+A_S15_E003_HD.mp4",
+        "size": 896700136
     }
 }

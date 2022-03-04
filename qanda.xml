@@ -7,8 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Feb 2022 00:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Mar 2022 00:40:56 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Putin's War</title>
+      <link>https://www.abc.net.au/qanda/2022-03-03/13769842</link>
+      <description>Panellists: Dennis Richardson, Former Director-General of ASIO; Deborah Snow, Senior writer, Sydney Morning Herald and former Moscow correspondent; Jason Falinski, NSW Liberal MP; Brendan O&amp;#x27;Connor, Shadow Minister for Defence; and Olga Boichak, Lecturer in Digital Cultures, University of Sydney.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2022-03-03/13769842</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H004S00MA1D1_Q+A_S15_E004_HD.mp4" length="1002433739" type="video/mp4"/>
+      <pubDate>Thu, 03 Mar 2022 20:30:00 +1100</pubDate>
+    </item>
+    <item>
+      <title>Opening Up: Anxiety and Mental Health</title>
+      <link>https://www.abc.net.au/qanda/2022-24-02/13758966</link>
+      <description>Panellists: Jelena Dokic, Former World No. 4 tennis player and broadcaster; Brooke Blurton, Mental health advocate; Bridget Archer, Federal Member for Bass; Stephen Jones, Labor MP for Whitlam; and Mark Cross, Psychiatrist and author. With a live performance from the legendary Archie Roach.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2022-24-02/13758966</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H003S00AM1D1_Q+A_S15_E003_HD.mp4" length="896700136" type="video/mp4"/>
+      <pubDate>Thu, 24 Feb 2022 20:30:00 +1100</pubDate>
+    </item>
     <item>
       <title>Russia, Donations and Distractions</title>
       <link>https://www.abc.net.au/qanda/2022-17-02/13749544</link>
