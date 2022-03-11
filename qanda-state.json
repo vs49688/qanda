@@ -5768,5 +5768,15 @@
         "time": "2022-02-24T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H003S00AM1D1_Q+A_S15_E003_HD.mp4",
         "size": 896700136
+    },
+    "13779758": {
+        "episode_id": 13779758,
+        "title": "Feminism, Floods, and Refugees",
+        "link": "https://www.abc.net.au/qanda/2022-10-03/13779758",
+        "image_url": "https://www.abc.net.au/cm/rimage/13780262-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Lillian Flex Mami Ahenkan, Podcaster and entrepreneur; Wendy McCarthy, Educator and businesswoman; Najeeba Wazefadost, Refugee and gender policy advisor; Fiona Simson, President, National Farmers\u2019 Federation; and Claire Lehmann, Founder and Editor of Quillette.",
+        "time": "2022-03-10T20:30+1100",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H005S00MA1D1_Q+A_S15_E005_HD.mp4",
+        "size": 860989806
     }
 }

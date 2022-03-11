@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:40:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Mar 2022 00:39:58 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Feminism, Floods, and Refugees</title>
+      <link>https://www.abc.net.au/qanda/2022-10-03/13779758</link>
+      <description>Panellists: Lillian Flex Mami Ahenkan, Podcaster and entrepreneur; Wendy McCarthy, Educator and businesswoman; Najeeba Wazefadost, Refugee and gender policy advisor; Fiona Simson, President, National Farmers’ Federation; and Claire Lehmann, Founder and Editor of Quillette.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2022-10-03/13779758</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H005S00MA1D1_Q+A_S15_E005_HD.mp4" length="860989806" type="video/mp4"/>
+      <pubDate>Thu, 10 Mar 2022 20:30:00 +1100</pubDate>
+    </item>
     <item>
       <title>Putin's War</title>
       <link>https://www.abc.net.au/qanda/2022-03-03/13769842</link>
