@@ -7,8 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 00:43:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2022 00:37:58 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Cost of Living and the Bottom Line</title>
+      <link>https://www.abc.net.au/qanda/2022-24-03/13805222</link>
+      <description>Panellists: Dan Tehan, Minister for Trade, Tourism and Investment; Terri Butler, Shadow Minister for the Environment and Water; Omar Khorshid, President, Australian Medical Association; Ronni Kahn, CEO and Founder, OzHarvest; and Melinda Cilento, CEDA CEO, company director and economist.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2022-24-03/13805222</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H007S00MA1D1_Q+A_S15_E007_HD.mp4" length="923668215" type="video/mp4"/>
+      <pubDate>Thu, 24 Mar 2022 20:30:00 +1100</pubDate>
+    </item>
+    <item>
+      <title>Cancel Culture and Branding Balls-Ups</title>
+      <link>https://www.abc.net.au/qanda/2022-17-03/13791448</link>
+      <description>Panellists: Roxane Gay, Writer; Sarah Henderson, Liberal Senator for Victoria; Anne Aly, Labor MP for Cowan; Thomas Mayor, Author and advocate; and Pru Goward, Former NSW Liberal Minister.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2022-17-03/13791448</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H006S00AM1D1_Q+A_S15_E006_HD.mp4" length="921037031" type="video/mp4"/>
+      <pubDate>Thu, 17 Mar 2022 20:30:00 +1100</pubDate>
+    </item>
     <item>
       <title>Feminism, Floods, and Refugees</title>
       <link>https://www.abc.net.au/qanda/2022-10-03/13779758</link>
