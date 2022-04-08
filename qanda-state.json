@@ -5808,5 +5808,15 @@
         "time": "2022-03-31T20:30+1100",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H008S00MA1D1_Q+A_S15_E008_HD.mp4",
         "size": 919028449
+    },
+    "13826116": {
+        "episode_id": 13826116,
+        "title": "The Election Countdown",
+        "link": "https://www.abc.net.au/qanda/2022-07-04/13826116",
+        "image_url": "https://www.abc.net.au/cm/rimage/13826114-16x9-large.jpg?v=5",
+        "teaser": "Panellists: Samantha Maiden, National political editor; Steph Tisdell, Performer and writer; Gideon Rozner, Director of Policy, IPA; Anne Ruston, Minister for Families, Social Services and Women's Safety; and Clare O\u2019Neil, Shadow Minister for Aged Care Services.",
+        "time": "2022-04-07T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H009S00MA1D1_Q+A_S15_E009_HD.mp4",
+        "size": 909043944
     }
 }

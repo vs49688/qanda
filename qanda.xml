@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Apr 2022 00:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2022 00:43:09 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>The Election Countdown</title>
+      <link>https://www.abc.net.au/qanda/2022-07-04/13826116</link>
+      <description>Panellists: Samantha Maiden, National political editor; Steph Tisdell, Performer and writer; Gideon Rozner, Director of Policy, IPA; Anne Ruston, Minister for Families, Social Services and Women&amp;#x27;s Safety; and Clare O’Neil, Shadow Minister for Aged Care Services.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2022-07-04/13826116</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H009S00MA1D1_Q+A_S15_E009_HD.mp4" length="909043944" type="video/mp4"/>
+      <pubDate>Thu, 07 Apr 2022 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>Budget Special </title>
       <link>https://www.abc.net.au/qanda/2022-31-03/13810662</link>
