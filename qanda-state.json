@@ -5818,5 +5818,15 @@
         "time": "2022-04-07T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H009S00MA1D1_Q+A_S15_E009_HD.mp4",
         "size": 909043944
+    },
+    "13841444": {
+        "episode_id": 13841444,
+        "title": "Live from Gladstone",
+        "link": "https://www.abc.net.au/qanda/2022-21-04/13841444",
+        "image_url": "https://www.abc.net.au/cm/rimage/13844474-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Bob Katter, Member for Kennedy; Bronwyn Fredericks, Pro Vice-Chancellor, Indigenous Engagement, University of Queensland; Keith Pitt, Minister for Resources and Water; Murray Watt, Labor Senator for Queensland; and Amanda Cahill, CEO, The Next Economy.",
+        "time": "2022-04-21T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H011S00MA1D1_Q+A_S15_E011_HD.mp4",
+        "size": 1109045494
     }
 }
