@@ -5828,5 +5828,25 @@
         "time": "2022-04-21T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H011S00MA1D1_Q+A_S15_E011_HD.mp4",
         "size": 1109045494
+    },
+    "13833172": {
+        "episode_id": 13833172,
+        "title": "The Race for the Nation",
+        "link": "https://www.abc.net.au/qanda/2022-14-04/13833172",
+        "image_url": "https://www.abc.net.au/cm/rimage/13835610-16x9-large.jpg?v=5",
+        "teaser": "Panel: Osher G\u00fcnsberg, TV and podcast host; Megan Davis, Pro Vice Chancellor Indigenous, UNSW; Kate McBride, Farmer and researcher; Andrew Bragg, Liberal Senator for NSW; and Chris Bowen, Shadow Minister for Climate Change and Energy.",
+        "time": "2022-04-14T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H010S00MA1D1_Q+A_S15_E010_HD.mp4",
+        "size": 859144452
+    },
+    "13853736": {
+        "episode_id": 13853736,
+        "title": "Inflation, Floods and Preparing for War",
+        "link": "https://www.abc.net.au/qanda/2022-28-04/13853736",
+        "image_url": "https://www.abc.net.au/cm/rimage/13855280-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Stuart Robert, Minister for Employment, Workforce, Skills, Small and Family Business; Anika Wells, Labor MP for Lilley; Campbell Newman, Former Queensland Premier and Senate candidate; Larissa Waters, Greens Senator; and Caitlin Byrne, Director, Griffith Asia Institute.",
+        "time": "2022-04-28T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H012S00MA1D1_Q+A_S15_E012_HD.mp4",
+        "size": 1040784079
     }
 }
