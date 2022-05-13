@@ -5858,5 +5858,15 @@
         "time": "2022-05-05T21:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H013S00MA1D1_Q+A_S15_E013_HD.mp4",
         "size": 933974770
+    },
+    "13868868": {
+        "episode_id": 13868868,
+        "title": "The Undecided Voters",
+        "link": "https://www.abc.net.au/qanda/2022-12-05/13868868",
+        "image_url": "https://www.abc.net.au/cm/rimage/13873696-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Paul Fletcher, Minister for Communications and the Arts; Catherine King, Shadow Minister for Infrastructure and Regional Development; Caroline Di Russo, Lawyer and political commentator; Siimon Reynolds, Advertising entrepreneur; and Intifar Chowdhury, Researcher and ANU academic.",
+        "time": "2022-05-12T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H014S00AM1D1.mp4",
+        "size": 1030380762
     }
 }
