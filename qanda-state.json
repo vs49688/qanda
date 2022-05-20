@@ -5868,5 +5868,15 @@
         "time": "2022-05-12T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H014S00AM1D1.mp4",
         "size": 1030380762
+    },
+    "13879188": {
+        "episode_id": 13879188,
+        "title": "The Final Countdown",
+        "link": "https://www.abc.net.au/qanda/2022-19-05/13879188",
+        "image_url": "https://www.abc.net.au/cm/rimage/13886752-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Cathy McGowan, Former independent member for Indi; James Paterson, Liberal Senator for Victoria; Josh Burns, Labor Member for Macnamara; Gigi Foster, Economist, UNSW; and Peter Hartcher, Political Editor, The Sydney Morning Herald and The Age.",
+        "time": "2022-05-19T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H015S00MA1D1_Q+A_S15_E015_HD.mp4",
+        "size": 967969134
     }
 }
