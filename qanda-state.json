@@ -5878,5 +5878,15 @@
         "time": "2022-05-19T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H015S00MA1D1_Q+A_S15_E015_HD.mp4",
         "size": 967969134
+    },
+    "13891378": {
+        "episode_id": 13891378,
+        "title": "The Election Battle and 'Nicer' Politics",
+        "link": "https://www.abc.net.au/qanda/2022-26-05/13891378",
+        "image_url": "https://www.abc.net.au/cm/rimage/13899262-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Amanda Rishworth, Labor Member for Kingston, Andrew Bragg, Liberal Senator for NSW, Mehreen Faruqi, Greens Senator for NSW, Monique Ryan, Independent Member for Kooyong, and Alexander Downer, Former Liberal Foreign Affairs Minister.",
+        "time": "2022-05-26T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H016S00MA1D1_Q+A_S15_E016_HD.mp4",
+        "size": 961239817
     }
 }
