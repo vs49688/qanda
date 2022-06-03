@@ -5888,5 +5888,15 @@
         "time": "2022-05-26T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H016S00MA1D1_Q+A_S15_E016_HD.mp4",
         "size": 961239817
+    },
+    "13905520": {
+        "episode_id": 13905520,
+        "title": "Mabo, a Voice and the Road Ahead",
+        "link": "https://www.abc.net.au/qanda/2022-02-06/13905520",
+        "image_url": "https://www.abc.net.au/cm/rimage/13905822-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Gail Mabo, Artist and daughter of land rights campaigner Eddie Koiki Mabo; Linda Burney, Minister for Indigenous Australians; Julian Leeser, NSW Liberal MP; Chris Kenny, Member of the Indigenous Voice Senior Advisory Group; Shireen Morris, Constitutional lawyer and author; and Frank Brennan, Priest, human rights lawyer and academic.",
+        "time": "2022-06-02T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H017S00MA1D1_Q+A_S15_E017_HD.mp4",
+        "size": 922637050
     }
 }
