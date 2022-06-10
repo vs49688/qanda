@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jun 2022 00:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jun 2022 00:53:34 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>A Kick in the Arts</title>
+      <link>https://www.abc.net.au/qanda/2022-09-06/13912120</link>
+      <description>Panellists: Darren Hayes, Iconic Australian performer and award-winning songwriter; Katie Noonan, Artistic director, musician and producer; Adam Liaw, Cook, Writer and TV Presenter; Tony Burke, Minister for Employment and Workplace Relations and Minister for the Arts; and Paul Fletcher, Shadow Minister for Science and the Arts.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2022-09-06/13912120</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H018S00MA1D1_Q+A_S15_E018_HD.mp4" length="893519715" type="video/mp4"/>
+      <pubDate>Thu, 09 Jun 2022 20:30:00 +1000</pubDate>
+    </item>
     <item>
       <title>Mabo, a Voice and the Road Ahead</title>
       <link>https://www.abc.net.au/qanda/2022-02-06/13905520</link>

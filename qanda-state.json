@@ -5898,5 +5898,15 @@
         "time": "2022-06-02T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H017S00MA1D1_Q+A_S15_E017_HD.mp4",
         "size": 922637050
+    },
+    "13912120": {
+        "episode_id": 13912120,
+        "title": "A Kick in the Arts",
+        "link": "https://www.abc.net.au/qanda/2022-09-06/13912120",
+        "image_url": "https://www.abc.net.au/cm/rimage/13916634-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Darren Hayes, Iconic Australian performer and award-winning songwriter; Katie Noonan, Artistic director, musician and producer; Adam Liaw, Cook, Writer and TV Presenter; Tony Burke, Minister for Employment and Workplace Relations and Minister for the Arts; and Paul Fletcher, Shadow Minister for Science and the Arts.",
+        "time": "2022-06-09T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H018S00MA1D1_Q+A_S15_E018_HD.mp4",
+        "size": 893519715
     }
 }
