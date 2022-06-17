@@ -5908,5 +5908,15 @@
         "time": "2022-06-09T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H018S00MA1D1_Q+A_S15_E018_HD.mp4",
         "size": 893519715
+    },
+    "13927068": {
+        "episode_id": 13927068,
+        "title": "Australia's Energy Crisis",
+        "link": "https://www.abc.net.au/qanda/2022-16-06/13927068",
+        "image_url": "https://www.abc.net.au/cm/rimage/13928724-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Chris Bowen, Minister for Energy and Climate Change; Zoe Daniel, Independent member for Goldstein; Saul Griffith, Inventor, author, and scientist; Sarah McNamara, Chief Executive of the Australian Energy Council; and Tony Wood, Energy and Climate Change Program Director, Grattan Institute.",
+        "time": "2022-06-16T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H019S00MA1D1_Q+A_S15_E019_HD.mp4",
+        "size": 944774895
     }
 }
