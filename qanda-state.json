@@ -5918,5 +5918,15 @@
         "time": "2022-06-16T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H019S00MA1D1_Q+A_S15_E019_HD.mp4",
         "size": 944774895
+    },
+    "13936836": {
+        "episode_id": 13936836,
+        "title": "Price Pressures and Postcode Discrimination",
+        "link": "https://www.abc.net.au/qanda/2022-26-06/13936836",
+        "image_url": "https://www.abc.net.au/cm/rimage/13938804-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Brendan O'Connor, Minister for Skills and Training; Bridget McKenzie, Shadow Minister for Infrastructure, Transport and Regional Development; Gabriela D'Souza, Senior Economist, Committee for Economic Development of Australia; Lech Blaine, Writer and journalist; and Alexi Boyd, CEO, Council of Small Business Organisations Australia.",
+        "time": "2022-06-23T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H020S00MA1D1_Q+A_S15_E020_HD.mp4",
+        "size": 1043706610
     }
 }
