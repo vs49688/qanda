@@ -5928,5 +5928,15 @@
         "time": "2022-06-23T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H020S00MA1D1_Q+A_S15_E020_HD.mp4",
         "size": 1043706610
+    },
+    "13944946": {
+        "episode_id": 13944946,
+        "title": "The Choice: Violence or Poverty",
+        "link": "https://www.abc.net.au/qanda/2022-07-07/13944946",
+        "image_url": "https://www.abc.net.au/cm/rimage/13951878-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Anne Summers, Lead researcher and trailblazing author; Anne Aly, Labor Minister and survivor; Jess Hill, Journalist and author; Veronica Gorrie, Author and survivor; and Arman Abrahimzadeh, Anti-domestic violence campaigner.",
+        "time": "2022-07-07T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H021S00MA1D1_Q+A_S15_E021_HD.mp4",
+        "size": 899468022
     }
 }
