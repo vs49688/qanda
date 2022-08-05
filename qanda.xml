@@ -7,8 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Jul 2022 00:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Aug 2022 01:03:10 +0000</lastBuildDate>
     <webMaster>webmaster@vs49688.net</webMaster>
+    <item>
+      <title>Q+A at Garma 2022</title>
+      <link>https://www.abc.net.au/qanda/2022-07-31/13977922</link>
+      <description>Panellists: Linda Burney, Minister for Indigenous Australians; Yiŋiya Mark Guyula, Independent member for Mulka, NT and Yolŋu elder; June Oscar, Aboriginal and Torres Strait Islander Social Justice Commissioner; Dean Parkin, Director, From the Heart; Mayatili Marika, Rirratjingu Traditional Owner; and Jacinta Nampijinpa Price, Country Liberal Senator for NT.</description>
+      <guid isPermaLink="true">https://www.abc.net.au/qanda/2022-07-31/13977922</guid>
+      <enclosure url="https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H023S00MA1D1_Q+A_GramaSpecial_S15_E023_HD.mp4" length="1278040294" type="video/mp4"/>
+      <pubDate>Mon, 01 Aug 2022 21:35:00 +1000</pubDate>
+    </item>
     <item>
       <title>The Choice: Violence or Poverty</title>
       <link>https://www.abc.net.au/qanda/2022-07-07/13944946</link>

@@ -5938,5 +5938,15 @@
         "time": "2022-07-07T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H021S00MA1D1_Q+A_S15_E021_HD.mp4",
         "size": 899468022
+    },
+    "13977922": {
+        "episode_id": 13977922,
+        "title": "Q+A at Garma 2022",
+        "link": "https://www.abc.net.au/qanda/2022-07-31/13977922",
+        "image_url": "https://www.abc.net.au/cm/rimage/13987816-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Linda Burney, Minister for Indigenous Australians; Yi\u014biya Mark Guyula, Independent member for Mulka, NT and Yol\u014bu elder; June Oscar, Aboriginal and Torres Strait Islander Social Justice Commissioner; Dean Parkin, Director, From the Heart; Mayatili Marika, Rirratjingu Traditional Owner; and Jacinta Nampijinpa Price, Country Liberal Senator for NT.",
+        "time": "2022-08-01T21:35+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H023S00MA1D1_Q+A_GramaSpecial_S15_E023_HD.mp4",
+        "size": 1278040294
     }
 }
