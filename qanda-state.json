@@ -5948,5 +5948,25 @@
         "time": "2022-08-01T21:35+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H023S00MA1D1_Q+A_GramaSpecial_S15_E023_HD.mp4",
         "size": 1278040294
+    },
+    "14009792": {
+        "episode_id": 14009792,
+        "title": "China, Democracy and Capitalism",
+        "link": "https://www.abc.net.au/qanda/2022-08-11/14009792",
+        "image_url": "https://www.abc.net.au/cm/rimage/14011062-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Pat Conroy, Minister for International Development and the Pacific; James Paterson, Liberal Senator for Victoria; Sharan Burrow, General Secretary, International Trade Union Confederation; Jennifer Hsu, Research Fellow, Public Opinion and Foreign Policy Program, Lowy Institute; and Damien Cave, Australian Bureau Chief, The New York Times.",
+        "time": "2022-08-11T20:30+1000",
+        "download_url": null,
+        "size": 0
+    },
+    "13993030": {
+        "episode_id": 13993030,
+        "title": "Global Megatrends and Lived Experiences",
+        "link": "https://www.abc.net.au/qanda/2022-08-04/13993030",
+        "image_url": "https://www.abc.net.au/cm/rimage/14000768-16x9-large.jpg?v=3",
+        "teaser": "Panellists: Larry Marshall, Chief Executive of CSIRO; Jenny McAllister, Assistant Minister for Climate Change and Energy; Sarah Hanson-Young, Greens Senator for SA; Warren Mundine, Director, Indigenous Forum, Centre for Independent Studies; and Hannah Diviney, Writer and disability advocate.",
+        "time": "2022-08-04T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H024S00MA1D1_Q+A_S15_E024_HD.mp4",
+        "size": 898126582
     }
 }
