@@ -5978,5 +5978,15 @@
         "time": "2022-08-18T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H026S00MA1D1_Q+A_S15_E026_HD.mp4",
         "size": 1070834908
+    },
+    "14024482": {
+        "episode_id": 14024482,
+        "title": "Sports, Inclusion and Redemption",
+        "link": "https://www.abc.net.au/qanda/2022-25-08/14024482",
+        "image_url": "https://www.abc.net.au/cm/rimage/14024476-16x9-large.jpg?v=2",
+        "teaser": "Panellists: Kieren Perkins, Chief Executive, Australian Sports Commission; Hannah Mouncey, Handball player; Joe Williams, Former NRL player and mental health advocate; David Lakisa, Pacific sport consultant; and Catherine Ordway, Sports lawyer, University of Canberra.",
+        "time": "2022-08-25T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H027S00MA1D1_Q+A_S15_E027_HD.mp4",
+        "size": 944421583
     }
 }
