@@ -5988,5 +5988,15 @@
         "time": "2022-08-25T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H027S00MA1D1_Q+A_S15_E027_HD.mp4",
         "size": 944421583
+    },
+    "14028040": {
+        "episode_id": 14028040,
+        "title": "Workers, Taxes and Getting a Fair Go",
+        "link": "https://www.abc.net.au/qanda/2022-09-01/14028040",
+        "image_url": "https://www.abc.net.au/cm/rimage/14032488-16x9-large.jpg?v=3",
+        "teaser": "Panellists: A.C. Grayling, British philosopher and author; Katy Gallagher, Minister for Finance, Women and the Public Service; Stuart Robert, Shadow Assistant Treasurer and Shadow Minister for Financial Services; Catherine Marriott, Chief Executive, Riverine Plains; and Wendy El-Khoury, Entrepreneur and business owner.",
+        "time": "2022-09-01T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H028S00MA1D1_Q+A_S15_E028_HD.mp4",
+        "size": 895813866
     }
 }
