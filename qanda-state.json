@@ -5998,5 +5998,15 @@
         "time": "2022-09-01T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H028S00MA1D1_Q+A_S15_E028_HD.mp4",
         "size": 895813866
+    },
+    "14039768": {
+        "episode_id": 14039768,
+        "title": "Ambition, Power and Storytelling Without A Pen",
+        "link": "https://www.abc.net.au/qanda/2022-08-09/14039768",
+        "image_url": "https://www.abc.net.au/cm/rimage/14041060-16x9-large.jpg?v=4",
+        "teaser": "Panellists: Brian Cox, Emmy Award-winning Scottish actor; Marlon Williams, Singer-songwriter; Deborah Cheetham, Artistic Director, Short Black Opera; Catherine McGregor, Author and Veteran\u2019s adviser; and Andrew Quilty, Photojournalist and author.",
+        "time": "2022-09-08T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H029S00MA1D1_Q+A_S15_E029_HD.mp4",
+        "size": 924310753
     }
 }
