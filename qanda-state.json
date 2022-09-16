@@ -6008,5 +6008,15 @@
         "time": "2022-09-08T20:30+1000",
         "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H029S00MA1D1_Q+A_S15_E029_HD.mp4",
         "size": 924310753
+    },
+    "14046352": {
+        "episode_id": 14046352,
+        "title": "Royalty, a Republic and Truth-Telling",
+        "link": "https://www.abc.net.au/qanda/2022-15-09/14046352",
+        "image_url": "https://www.abc.net.au/cm/rimage/14052140-16x9-large.jpg?v=4",
+        "teaser": "Eric Abetz, Campaign Chairman, Australian Monarchist League; Teela Reid, Wiradjuri and Wailwan lawyer; Simon Longstaff, Executive Director, The Ethics Centre; Sisonke Msimang, Award-winning writer; and Ruth Ben-Ghiat, Author and historian.",
+        "time": "2022-09-15T20:30+1000",
+        "download_url": "https://abcmedia.akamaized.net/tv/qanda/vodcast/NC2204H030S00MA1D1_Q+A_S15_E030_HD.mp4",
+        "size": 913553636
     }
 }
